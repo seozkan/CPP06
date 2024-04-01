@@ -3,15 +3,15 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: seozkan < seozkan@student.42kocaeli.com.tr +#+  +:+       +#+         #
+#    By: seozkan <seozkan@42kocaeli.com.tr>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/31 17:49:48 by seozkan           #+#    #+#              #
-#    Updated: 2024/03/31 17:50:48 by seozkan          ###   ########.fr        #
+#    Updated: 2024/04/01 16:49:04 by seozkan          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME		= base
-CC			= g++
+CC			= c++
 RM			= rm -rf
 CFLAGS		= -Wall -Wextra -Werror -std=c++98
 
